@@ -71,7 +71,7 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 
 Currently supports:
 - ChatGPT (Plus, Pro, and Team plans)
-- More platforms coming soon! (Probably! )
+- More platforms coming soon! (Probably 🙂)
 
 ## 📄 License
 
