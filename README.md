@@ -5,11 +5,11 @@ A curated list of practical, ready-to-use scheduled tasks for Large Language Mod
 ![GitHub stars](https://img.shields.io/github/stars/ozbekburak/awesome-llm-tasks?style=social)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## 🌟 Description
+## Description
 
 As AI assistants evolve to support scheduled and automated tasks, this repository serves as a community-driven collection of useful, practical, and innovative task prompts. Whether you're looking to enhance productivity, learn something new, or automate routine interactions, you'll find inspiring examples here.
 
-## 📚 Tasks Categories
+## Tasks Categories
 
 ### 🎓 Daily Learning
 - **Daily English Word**
@@ -63,17 +63,17 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   At 09:45 AM (GMT +03:00) every morning send me a random motivational quote about being a kind person.
   ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit tasks and our code of conduct.
 
-## 🔧 Support
+## Support
 
 Currently supports:
 - ChatGPT (Plus, Pro, and Team plans)
 - More platforms coming soon! (Probably 🙂)
 
-## 📄 License
+## License
 
 This project is licensed under the Creative Commons Legal Code License - see the [LICENSE](LICENSE) file for details.
 
