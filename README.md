@@ -37,6 +37,18 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   Send yesterday's Australian Open Singles results with key highlights at 10:00 AM.
   ```
 
+### 🌤️ Daily Updates
+- **Weather & Horoscope Check**
+  ```
+  Send me today's weather forecast and my daily horoscope at 08:00 AM.
+  ```
+
+### 🎨 Creative
+- **Daily DALL-E Art**
+  ```
+  Generate a creative DALL-E image based on a random fun prompt at 02:00 PM.
+  ```
+
 ### 💪 Health & Wellness
 - **Water Reminder**
   ```
@@ -45,6 +57,10 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
 - **Desk Exercise**
   ```
   Send me a quick desk-friendly stretch exercise at 11:00 AM and 03:00 PM.
+  ```
+- **Daily Workout Plan**
+  ```
+  Create a personalized 15-minute workout routine for me at 07:00 AM.
   ```
 
 ### 📝 Productivity
@@ -61,6 +77,12 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
 - **Daily Kindness Quote**
   ```
   At 09:45 AM (GMT +03:00) every morning send me a random motivational quote about being a kind person.
+  ```
+
+### ⏰ Reminders & Tasks
+- **Custom Reminder**
+  ```
+  Remind me to [your task] on [specific date] at [specific time].
   ```
 
 ## Contributing
