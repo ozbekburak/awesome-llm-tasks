@@ -103,6 +103,12 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   Suggest a new micro skill to practice for the week every Monday at 08:00 AM.
   ```
 
+### 🛫 Travel
+- **Travel Tips**
+  ```
+  Send me two tips and tricks for tourists planning to go to Bali every day at 04:30 PM.
+  ```
+
 ### ⏰ Reminders & Tasks
 - **Custom Reminder**
   ```
