@@ -20,6 +20,10 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   ```
   Share a practical Go programming tip at 09:00 AM every workday.
   ```
+- **Wikipedia Featured Article**
+  ```
+  Share Wikipedia featured article with a brief summary at 04:00 PM every weekday.
+  ```
 
 ### 📰 News & Updates
 - **AI News Digest**
@@ -30,11 +34,19 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   ```
   Send me top 5 Hacker News stories from yesterday with their links and stats at 10:00 AM.
   ```
+- **Tech Industry Updates**
+  ```
+  Provide a summary of major tech industry developments and product launches of the week at 09:00 AM on every Sunday.
+  ```
 
 ### 🎾 Sports Updates
 - **Australian Open Daily Results**
   ```
   Send yesterday's Australian Open Singles results with key highlights at 10:00 AM.
+  ```
+- **NBA Night Recap**
+  ```
+  Send me last night's NBA game scores and key highlights at 09:00 AM everyday.
   ```
 
 ### 🌤️ Daily Updates
@@ -42,11 +54,19 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   ```
   Send me today's weather forecast and my daily horoscope at 08:00 AM.
   ```
+- **Market Overview**
+  ```
+  Send a brief summary of major market indices and crypto prices at 09:15 AM.
+  ```
 
-### 🎨 Creative
+### 🎨 Creative & Entertainment
 - **Daily DALL-E Art**
   ```
   Generate a creative DALL-E image based on a random fun prompt at 02:00 PM.
+  ```
+- **Friday Movie Picks**
+  ```
+  Recommend one movie each from action, drama, and comedy genres every Friday at 05:00 PM.
   ```
 
 ### 💪 Health & Wellness
@@ -77,6 +97,10 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
 - **Daily Kindness Quote**
   ```
   At 09:45 AM (GMT +03:00) every morning send me a random motivational quote about being a kind person.
+  ```
+- **Weekly Skill Challenge**
+  ```
+  Suggest a new micro skill to practice for the week every Monday at 08:00 AM.
   ```
 
 ### ⏰ Reminders & Tasks
