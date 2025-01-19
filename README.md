@@ -115,6 +115,24 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   Remind me to [your task] on [specific date] at [specific time].
   ```
 
+### 📈 Financial
+- **US Market Pre-Check**
+  ```
+  Send me NASDAQ and S&P 500 pre-market data with notable movements at 08:30 AM EST every trading day.
+  ```
+
+### 🗓️ Local Events & Holidays
+- **Turkish Holiday Tracker**
+  ```
+  Check and notify me about any upcoming Turkish national or religious holidays for the next 7 days every Sunday at 09:00 AM.
+  ```
+
+### 🎯 Career Development
+- **Weekly Job Market Pulse**
+  ```
+  Analyze and summarize trending tech job skills and market demands in software and AI engineering every Monday at 10:00 AM.
+  ```
+
 ## Contributing
 
 We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit tasks and our code of conduct.
