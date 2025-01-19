@@ -54,10 +54,6 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   ```
   Send me today's weather forecast and my daily horoscope at 08:00 AM.
   ```
-- **Market Overview**
-  ```
-  Send a brief summary of major market indices and crypto prices at 09:15 AM.
-  ```
 
 ### 🎨 Creative & Entertainment
 - **Daily DALL-E Art**
@@ -116,6 +112,11 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   ```
 
 ### 📈 Financial
+- **Market Overview**
+  ```
+  Send a brief summary of major market indices and crypto prices at 09:15 AM.
+  ```
+
 - **US Market Pre-Check**
   ```
   Send me NASDAQ and S&P 500 pre-market data with notable movements at 08:30 AM EST every trading day.
