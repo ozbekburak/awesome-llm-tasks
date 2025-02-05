@@ -64,6 +64,10 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   ```
   Recommend one movie each from action, drama, and comedy genres every Friday at 05:00 PM.
   ```
+- **Daily Genre Explorer**
+  ```
+  Recommend one song daily at 4:00 PM from a different music genre each day, with context about its cultural significance.
+  ```
 
 ### 💪 Health & Wellness
 - **Water Reminder**
@@ -88,6 +92,11 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
   ```
   Prompt me to reflect on my day's achievements at 05:30 PM.
   ```
+- **Weekly Planning Session**
+  ```
+  Help me plan my week every Sunday at 7:00 PM by asking 3 strategic questions about priorities.
+  ```
+
 
 ### 🌱 Personal Development
 - **Daily Kindness Quote**
@@ -97,6 +106,10 @@ As AI assistants evolve to support scheduled and automated tasks, this repositor
 - **Weekly Skill Challenge**
   ```
   Suggest a new micro skill to practice for the week every Monday at 08:00 AM.
+  ```
+- **Mindfulness Minute**
+  ```
+  Guide me through a 1-minute breathing exercise with a motivational quote at 11:30 AM daily.
   ```
 
 ### 🛫 Travel
